@@ -8,9 +8,9 @@ Informatics at Universitas Sebelas Maret. Founder and lead engineer at [Crescens
 
 ### Work
 
-| | | |
+| Project | What it is | Status |
 | --- | --- | --- |
-| **SimplyBox** | AI inbox that unifies a small business's WhatsApp and email | [simplybox.id](https://simplybox.id) |
+| **SimplyBox** | AI inbox that unifies a small business's WhatsApp and email | archived, [simplybox.id](https://simplybox.id) |
 | **Snapose** | Offline-first desktop app that runs a photobooth studio end to end | client work |
 | **RoyaleCard Arena** | On-chain strategy game where trading bots duel on live market data | Solana devnet |
 | **Eskalasi** | Franchise operations platform: point of sale, accounting, inventory | in build |
