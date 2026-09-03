@@ -12,4 +12,4 @@ Four case studies with the stack as built, a CV you can print, and an operating 
 
 Open to internships and freelance work.
 
-[Email](mailto:daffa.hasanal@gmail.com) · [WhatsApp](https://wa.me/628811710715) · [LinkedIn](https://www.linkedin.com/in/daffahasanal/) · [X](https://x.com/daffahsnl)
+[Email](mailto:daffa.hasanal@gmail.com) · [LinkedIn](https://www.linkedin.com/in/daffahasanal/)
